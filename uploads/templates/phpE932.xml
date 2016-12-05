@@ -1,0 +1,49 @@
+<testtemplate>
+<board>OCR</board><subject>Computing GCSE</subject><year>2015</year><month>June</month>
+<code></code><paper>A451 Computer Systems and Programming</paper>
+<mpcount>24</mpcount>
+<testbody>
+<mp category="F" skill="F"> <q>1</q><text>Smartphone, input, output and storage</text><marks>3</marks></mp>
+<mp category="R" skill="F"> <q>2</q><text>Filetypes, lossy compression</text><marks>7</marks></mp>
+<mp category="P" skill="A"> <q>3</q><text>Flowchart conditions and variable data types</text><marks>10</marks></mp>
+<mp category="S" skill="F"> <q>4</q><text>Operating systems and utility programs for security</text><marks>6</marks></mp>
+<mp category="S" skill="F"> <q>5a</q><text>High level code, Machine Code and compilers</text><marks>5</marks></mp>
+<mp category="P" skill="W"> <q>5b</q><text>Extended writing: Code Standards</text><marks>6</marks></mp>
+<mp category="D" skill="A"> <q>6</q><text>Database, off the shelf software and using databases</text><marks>6</marks></mp>
+<mp category="H" skill="A"> <q>7</q><text>How CPU and RAM work, and the purpose of cache memory</text><marks>5</marks></mp>
+<mp category="H" skill="W"> <q>7c</q><text>Extended Writing: Advances in memory technology</text><marks>6</marks></mp>
+<mp category="R" skill="N"> <q>8</q><text>Binary numbers, opcode and operand</text><marks>7</marks></mp>
+<mp category="C" skill="F"> <q>9</q><text>Local Area Network features, IP and MAC addresses, Failover</text><marks>10</marks></mp>
+<mp category="P" skill="A"> <q>10</q><text>Programming: Index and Arrays</text><marks>3</marks></mp>
+<mp category="P" skill="L"> <q>10c</q><text>Extended algorithm: Write an algorithm to update the array.</text><marks>6</marks></mp>
+
+</testbody>
+<gradeboundaries>
+<gb> <grade>U</grade><rawmark>0</rawmark><ums>0</ums></gb>
+<gb> <grade>G</grade><rawmark>9</rawmark><ums>20</ums></gb>
+<gb> <grade>F</grade><rawmark>15</rawmark><ums>30</ums></gb>
+<gb> <grade>E</grade><rawmark>21</rawmark><ums>40</ums></gb>
+<gb> <grade>D</grade><rawmark>28</rawmark><ums>50</ums></gb>
+<gb> <grade>C</grade><rawmark>35</rawmark><ums>60</ums></gb>
+<gb> <grade>B</grade><rawmark>42</rawmark><ums>70</ums></gb>
+<gb> <grade>A</grade><rawmark>49</rawmark><ums>80</ums></gb>
+<gb> <grade>A*</grade><rawmark>56</rawmark><ums>90</ums></gb>
+<gb> <grade>A**</grade><rawmark>100</rawmark><ums>100</ums></gb>
+</gradeboundaries>
+<categories>
+<category> <text>Fundamentals</text><code>F</code></category>
+<category> <text>Hardware</text><code>H</code></category>
+<category> <text>Software</text><code>S</code></category>
+<category> <text>Representing data</text><code>R</code></category>
+<category> <text>Databases</text><code>D</code></category>
+<category> <text>Communications</text><code>C</code></category>
+<category> <text>Programming</text><code>P</code></category>
+</categories>
+<skills>
+<skill> <text>Factual recall</text><code>F</code></skill>
+<skill> <text>Applying knowledge</text><code>A</code></skill>
+<skill> <text>Writing clearly</text><code>W</code></skill>
+<skill> <text>Logical reasoning</text><code>L</code></skill>
+<skill> <text>Numeracy skills</text><code>N</code></skill>
+</skills>
+</testtemplate>

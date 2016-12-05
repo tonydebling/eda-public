@@ -1,0 +1,69 @@
+<testtemplate>
+<board>OCR</board><subject>Computing GCSE</subject><year>2012</year><month>January</month>
+<code>79826</code><paper>A451 Computer Systems and Programming</paper>
+<mpcount>24</mpcount>
+<testbody>
+<mp category="R" skill="F"> <q>1a</q><text>Units for file type</text><marks>3</marks></mp>
+<mp category="R" skill="F"> <q>1b</q><text>Data units</text><marks>2</marks></mp>
+<mp category="S" skill="F"> <q>2a</q><text>What is multitasking</text><marks>2</marks></mp>
+<mp category="S" skill="F"> <q>2b</q><text>OS functions?</text><marks>2</marks></mp>
+<mp category="P" skill="F"> <q>3ai</q><text>What is a variable?</text><marks>2</marks></mp>
+
+<mp category="P" skill="F"> <q>3aii</q><text>Choose data types</text><marks>4</marks></mp>
+<mp category="P" skill="L"> <q>3b</q><text>Follow algorithm</text><marks>3</marks></mp>
+<mp category="C" skill="F"> <q>4a</q><text>Internet</text><marks>3</marks></mp>
+<mp category="C" skill="W"> <q>4b*</q><text>Explain a DNS server</text><marks>6</marks></mp>
+<mp category="R" skill="F"> <q>5a</q><text>Image files</text><marks>5</marks></mp>
+
+<mp category="R" skill="F"> <q>5bi</q><text>What is resolution?</text><marks>1</marks></mp>
+<mp category="R" skill="N"> <q>5bii</q><text>Effect on file size?</text><marks>2</marks></mp>
+<mp category="P" skill="L"> <q>6ai</q><text>Data validation check</text><marks>2</marks></mp>
+<mp category="P" skill="A"> <q>6aii</q><text>Another validation check</text><marks>2</marks></mp>
+<mp category="D" skill="F"> <q>6b</q><text>Primary Key</text><marks>3</marks></mp>
+
+<mp category="D" skill="F"> <q>6c</q><text>Database query</text><marks>1</marks></mp>
+<mp category="D" skill="A"> <q>6d </q><text>Design report layout</text><marks>6</marks></mp>
+<mp category="F" skill="A"> <q>7a</q><text>How to apply a computer</text><marks>4</marks></mp>
+<mp category="S" skill="A"> <q>7bi</q><text>Advantages of OTS software</text><marks>2</marks></mp>
+<mp category="S" skill="A"> <q>7bii</q><text>Disadvantages of OTS software</text><marks>2</marks></mp>
+
+<mp category="F" skill="W"> <q>7c*</q><text>Legal and social issues</text><marks>6</marks></mp>
+<mp category="H" skill="F"> <q>8a</q><text>Purpose of RAM</text><marks>2</marks></mp>
+<mp category="H" skill="F"> <q>8bi</q><text>What is virtual memory?</text><marks>2</marks></mp>
+<mp category="H" skill="F"> <q>8bii</q><text>Why VM is needed?</text><marks>1</marks></mp>
+<mp category="H" skill="A"> <q>8biii</q><text>Effects of memory upgrade?</text><marks>2</marks></mp>
+
+<mp category="P" skill="A"> <q>9a</q><text>Indexing an array</text><marks>2</marks></mp>
+<mp category="P" skill="F"> <q>9bi</q><text>What is logic error?</text><marks>1</marks></mp>
+<mp category="P" skill="L"> <q>9bii</q><text>Find a logic error</text><marks>2</marks></mp>
+<mp category="P" skill="F"> <q>9c</q><text>Write an algorithm</text><marks>5</marks></mp>
+</testbody>
+<gradeboundaries>
+<gb> <grade>U</grade><rawmark>0</rawmark><ums>0</ums></gb>
+<gb> <grade>G</grade><rawmark>16</rawmark><ums>24</ums></gb>
+<gb> <grade>F</grade><rawmark>24</rawmark><ums>36</ums></gb>
+<gb> <grade>E</grade><rawmark>32</rawmark><ums>48</ums></gb>
+<gb> <grade>D</grade><rawmark>40</rawmark><ums>60</ums></gb>
+<gb> <grade>C</grade><rawmark>48</rawmark><ums>72</ums></gb>
+<gb> <grade>B</grade><rawmark>56</rawmark><ums>84</ums></gb>
+<gb> <grade>A</grade><rawmark>64</rawmark><ums>96</ums></gb>
+<gb> <grade>A*</grade><rawmark>72</rawmark><ums>108</ums></gb>
+<gb> <grade>A**</grade><rawmark>100</rawmark><ums>120</ums></gb>
+</gradeboundaries>
+<categories>
+<category> <text>Fundamentals</text><code>F</code></category>
+<category> <text>Hardware</text><code>H</code></category>
+<category> <text>Software</text><code>S</code></category>
+<category> <text>Representing data</text><code>R</code></category>
+<category> <text>Databases</text><code>D</code></category>
+<category> <text>Communications</text><code>C</code></category>
+<category> <text>Programming</text><code>P</code></category>
+</categories>
+<skills>
+<skill> <text>Factual recall</text><code>F</code></skill>
+<skill> <text>Applying knowledge</text><code>A</code></skill>
+<skill> <text>Writing clearly</text><code>W</code></skill>
+<skill> <text>Logical reasoning</text><code>L</code></skill>
+<skill> <text>Numeracy skills</text><code>N</code></skill>
+</skills>
+</testtemplate>
