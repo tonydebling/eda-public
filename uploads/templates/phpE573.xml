@@ -40,15 +40,15 @@
 </testbody>
 <gradeboundaries>
 <gb> <grade>U</grade><rawmark>0</rawmark><ums>0</ums></gb>
-<gb> <grade>G</grade><rawmark>16</rawmark><ums>24</ums></gb>
-<gb> <grade>F</grade><rawmark>24</rawmark><ums>36</ums></gb>
-<gb> <grade>E</grade><rawmark>32</rawmark><ums>48</ums></gb>
-<gb> <grade>D</grade><rawmark>40</rawmark><ums>60</ums></gb>
-<gb> <grade>C</grade><rawmark>48</rawmark><ums>72</ums></gb>
-<gb> <grade>B</grade><rawmark>56</rawmark><ums>84</ums></gb>
-<gb> <grade>A</grade><rawmark>64</rawmark><ums>96</ums></gb>
-<gb> <grade>A*</grade><rawmark>72</rawmark><ums>108</ums></gb>
-<gb> <grade>A**</grade><rawmark>100</rawmark><ums>120</ums></gb>
+<gb> <grade>G</grade><rawmark>16</rawmark><ums>20</ums></gb>
+<gb> <grade>F</grade><rawmark>24</rawmark><ums>30</ums></gb>
+<gb> <grade>E</grade><rawmark>32</rawmark><ums>40</ums></gb>
+<gb> <grade>D</grade><rawmark>40</rawmark><ums>50</ums></gb>
+<gb> <grade>C</grade><rawmark>48</rawmark><ums>60</ums></gb>
+<gb> <grade>B</grade><rawmark>56</rawmark><ums>70</ums></gb>
+<gb> <grade>A</grade><rawmark>64</rawmark><ums>80</ums></gb>
+<gb> <grade>A*</grade><rawmark>72</rawmark><ums>90</ums></gb>
+<gb> <grade>A**</grade><rawmark>100</rawmark><ums>100</ums></gb>
 </gradeboundaries>
 <categories>
 <category> <text>Fundamentals</text><code>F</code></category>
