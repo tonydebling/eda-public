@@ -1,0 +1,227 @@
+<checklist>
+<subject>Computing</subject>
+<board>OCR</board>
+<syllabus>Computing from 2010</syllabus>
+<author>Tony Debling</author>
+<organisation>Edanalytics Ltd</organisation>
+<units>
+<unit><name>Fundamentals</name>
+	<topics>
+	<topic><name>Computer systems</name>
+	<checks>
+		<check><text>State the main elements of a computer system </text><rank>1</rank></check>
+		<check><text>State the commonalities between different types of computer devices ( tablets, phones, games consoles and laptop/desktop)</text><rank>1</rank></check>
+		<check><text>I can state five standards that are in use in computer systems today</text><rank>1</rank></check>
+		<check><text>I can give an example of what the impact would be if hardware and software was not developed using standards</text><rank>1</rank></check>
+		<check><text>I can give two examples of how computer system have raised ethical considerations</text><rank>1</rank></check>
+		<check><text>I can give examples of two laws that must be adhered to within the computing industry</text><rank>1</rank></check>
+	</checks>
+	</topic>
+	<topic><name>CPU architecture</name>
+		<checks>
+		<check><text>I can state, using bullet points, how the CPU fetches and executes instructions from RAM</text><rank>2</rank></check>
+		<check><text>I can explain the effect on the computer system of increasing and decreasing the processor speed</text><rank>2</rank></check>
+		<check><text>I can state what a multicore CPU is</text><rank>3</rank></check>
+		<check><text>I can give two examples of how increasing the number of cores in a CPU will affect performance</text><rank>3</rank></check>
+		</checks>
+	</topic>
+	<topic><name>Logic gates</name>
+		<checks>
+		<check><text>I can draw an AND gate and document the truth table for this gate</text><rank>2</rank></check>
+		<check><text>I can draw an OR gate and document the truth table for this gate</text><rank>2</rank></check>
+		<check><text>I can draw a NOT gate and document the truth table for this gate</text><rank>2</rank></check>
+		<check><text>I can give two examples of a combination circuit with AND, OR and NOT gates and work out what the output would be</text><rank>3</rank></check>
+		</checks>
+	</topic>
+	<topic><name>Memory</name>
+		<checks>
+		<check><text>I can state what RAM stands for</text><rank>1</rank></check>
+		<check><text>I can state what ROM stands for</text><rank>1</rank></check>
+		<check><text>I can state the difference between RAM and ROM</text><rank>1</rank></check>
+		<check><text>I can explain the effect on performance  of increasing or decreasing RAM in a computer system</text><rank>1</rank></check>
+		<check><text>I can state what virtual memory is</text><rank>3</rank></check>
+		<check><text>I can state what cache memory is and when it is used</text><rank>3</rank></check>
+		<check><text>I can state what flash memory is </text><rank>2</rank></check>
+		</checks>
+	</topic>
+	</topics>
+</unit>
+<unit><name>IO Subsystem</name>
+	<topics>
+	<topic><name>Input and output devices</name>
+		<checks>
+		<check><text>I can state what an input device is used for</text><rank>1</rank></check>
+		<check><text>I can state what a output device is used for</text><rank>1</rank></check>
+		<check><text>I can state what the effect would be if there was no input or output devices</text><rank>1</rank></check>
+		<check><text>I can give two examples of input devices</text><rank>1</rank></check>
+		<check><text>I can give two examples of output devices</text><rank>1</rank></check>
+		<check><text>I can give thee example of input or output devices for users with special needs</text><rank>2</rank></check>
+		</checks>
+	</topic>
+	<topic><name>Secondary storage</name>
+		<checks>
+		<check><text>I can state the need for secondary storage</text><rank>1</rank></check>
+		<check><text>I can give an example of what optical storage devices are</text><rank>2</rank></check>
+		<check><text>I can give an example of a magnetic storage device</text><rank>2</rank></check>
+		<check><text>I can explain what solid state devices are and when it would be used</text><rank>2</rank></check>
+		<check><text>I can decide, based on the situation what type of storage should be used based on speed, portabilty , durability and reliability.</text><rank>3</rank></check>
+		</checks>
+	</topic>
+	<topic><name>Software</name>
+		<checks>
+		<check><text>I can state three functions of an operating system</text><rank>2</rank></check>
+		<check><text>I can give an two examples of the features of the user interface of an operating system</text><rank>2</rank></check>
+		<check><text>I can state what a peripheral is </text><rank>1</rank></check>
+		<check><text>I can explain usign an example what multi-tasking is </text><rank>2</rank></check>
+		<check><text>I can state two security features of an operating system are</text><rank>3</rank></check>
+		<check><text>I can state two utility programs that would be needed on a computer system </text><rank>2</rank></check>
+		<check><text>I can give an example of custom written software is. I can give one advantage and one disadvantage of this software. </text><rank>2</rank></check>
+		<check><text>I can state what open sources software is . I can state one advantage and one disadvantage of this software. </text><rank>2</rank></check>
+		<check><text>I can state what proprietary software is . I can give one advantage and one disadvantage of this software. </text><rank>2</rank></check>
+		</checks>
+	</topic>
+	</topics>
+</unit>
+<unit><name>Data representation</name>
+	<topics>
+	<topic><name>Units</name>
+		<checks>
+		<check><text>I can define bit, nibble, byte, kilobyte, megabyte, gigabyte, terabyte</text><rank>2</rank></check>
+		</checks>
+	</topic>
+	<topic><name>Number</name>
+		<checks>
+		<check><text>I can convert denary whole numbers into eight bit binary and vice versa</text><rank>2</rank></check>
+		<check><text>I can add to 8 bit binary numbers together </text><rank>3</rank></check>
+		<check><text>I can convert a denary whole number to two digit hexadecimal and vice versa</text><rank>2</rank></check>
+		<check><text>I can convert between 2 digit hexadecimal and eight bit binary and vice versa</text><rank>2</rank></check>
+		</checks>
+	</topic>
+	<topic><name>Characters</name>
+		<checks>
+		<check><text>I can explain how binary is used to represent characters</text><rank>2</rank></check>
+		<check><text>I can state what a character set is</text><rank>2</rank></check>
+		<check><text>I know what ASCII stands for and can give an example of how it is used to represent characters</text><rank>2</rank></check>
+		<check><text>I can state the main feature of Unicode </text><rank>2</rank></check>
+		<check><text>I know that Unicode has a bigger character set than ASCII</text><rank>2</rank></check>
+		</checks>
+	</topic>
+	<topic><name>Images</name>
+		<checks>
+		<check><text>I can explain how pixels are represented in RAM </text><rank>2</rank></check>
+		<check><text>I can state two items of metadata</text><rank>3</rank></check>
+		<check><text>I understand how colour depth means more data in RAM and a bigger file size and why plus vice versa</text><rank>3</rank></check>
+		<check><text>I understand a higher resolution means more data in RAM and a bigger file size and vice versa</text><rank>2</rank></check>
+		</checks>
+	</topic>
+	<topic><name>Sound</name>
+		<checks>
+		<check><text>I can explain, using an example what sampling is</text><rank>3</rank></check>
+		<check><text>I can explain how samples are stored in RAM</text><rank>3</rank></check>
+		<check><text>I can state that more samples mean more data, a bigger file size and better quality playback size plus vice versa</text><rank>2</rank></check>
+		</checks>
+	</topic>
+	<topic><name>Instructions</name>
+		<checks>
+		<check><text>I can explain that instructions are coded as  bits</text><rank>2</rank></check>
+		<check><text>I can explain how computers distinguish between instructions and data</text><rank>3</rank></check>
+		</checks>
+	</topic>
+	</topics>
+</unit>
+<unit><name>Databases</name>
+	<topics>
+	<topic><name>Concept</name>
+		<checks>
+		<check><text>I can describe what a database is and can use the term persistant store of data</text><rank>2</rank></check>
+		<check><text>I can define a data handling software using the term create, maintain and interrogate</text><rank>2</rank></check>
+		</checks>
+	</topic>
+	<topic><name>Features</name>
+		<checks>
+		<check><text>I can state the main features of a DBMS</text><rank>2</rank></check>
+		<check><text>I can explain how the features of the DBMS can be used to create a custom solution for a customer</text><rank>2</rank></check>
+		</checks>
+	</topic>
+	<topic><name>Relational databases</name>
+		<checks>
+		<check><text>I can state what an entity is</text><rank>3</rank></check>
+		<check><text>I can link the relationship between entities and tables </text><rank>3</rank></check>
+		<check><text>I can state that the main components of a relational database are tables, forms, queries, reports and modules</text><rank>3</rank></check>
+		<check><text>I can build, through examples queries using greater than, less than, AND, OR and NOT</text><rank>3</rank></check>
+		<check><text>I can define the primary key</text><rank>2</rank></check>
+		<check><text>I can identify the primary key given a table</text><rank>2</rank></check>
+		<check><text>I can define data validation</text><rank>3</rank></check>
+		<check><text>I can give three examples of how data can be validated using a DBMS</text><rank>3</rank></check>
+		</checks>
+	</topic>
+	</topics>
+</unit>
+<unit><name>Networks and Internet</name>
+	<topics>
+	<topic><name>Networks</name>
+		<checks>
+		<check><text>I can give three benefits of networking stand alone computers into a LAN</text><rank>2</rank></check>
+		<check><text>I can state what the function is of a switch, a hub and a router and a WAP</text><rank>2</rank></check>
+		<check><text>I can state three pieces of hardware that would be needed to network stand alone computers</text><rank>2</rank></check>
+		<check><text>I can define what a client server network is</text><rank>3</rank></check>
+		<check><text>I can state what a peer to peer network is</text><rank>3</rank></check>
+		<check><text>I can explain the roles of the computers in a peer to peer or client server network</text><rank>3</rank></check>
+		<check><text>I can draw a diagram representing a ring network and state two advantages and two disadvantages of this network</text><rank>2</rank></check>
+		<check><text>I can draw a diagram representing a bus network and state two advantages and two disadvantages of this network</text><rank>2</rank></check>
+		<check><text>I can draw a diagram representing a star network and state two advantages and two disadvantages of this network</text><rank>2</rank></check>
+		<check><text>I can define what a local area network is</text><rank>2</rank></check>
+		<check><text>I can define what a wide area network is</text><rank>2</rank></check>
+		<check><text>I can state two differences between a WAN and a LAN</text><rank>2</rank></check>
+		<check><text>I can define the terms: IP addressing, MAC addressing, packet and protocol</text><rank>2</rank></check>
+		<check><text>I can give two examples of why security is needed within networks </text><rank>2</rank></check>
+		<check><text>I can state three items that should be present on an acceptable use policy</text><rank>2</rank></check>
+		<check><text>I can state three items that should be present on a disaster recovery policy ( backup, failover, archiving)</text><rank>3</rank></check>
+		</checks>
+	</topic>
+	<topic><name>Internet</name>
+		<checks>
+		<check><text>I can define the internet as a network of networks</text><rank>2</rank></check>
+		<check><text>I can define two pieces of hardware needed to connect computers to the internet</text><rank>2</rank></check>
+		<check><text>I can explain through an example what an IP address is</text><rank>3</rank></check>
+		<check><text>I know what DNS stands for</text><rank>2</rank></check>
+		<check><text>I can explain that a DNS server converts a domain name to an IP address</text><rank>2</rank></check>
+		<check><text>I can explain why HTML is an important standard for web pages </text><rank>3</rank></check>
+		<check><text>I know what type of files are associated with: JPG, MP3, GIF, PDF and MPEG. I understand why documents are converted to PDF before being placed on a website</text><rank>3</rank></check>
+		<check><text>I know why files should be compressed before transmitted on the internet </text><rank>2</rank></check>
+		<check><text>I can define lossy and lossless compression</text><rank>3</rank></check>
+		</checks>
+	</topic>
+	</topics>
+</unit>
+<unit><name>Programming</name>
+	<topics>
+	<topic><name>Basics</name>
+		<checks>
+		<check><text>I can interpret what an algorithm does when I am given it in pseudo code or as a flowchart</text><rank>3</rank></check>
+		<check><text>I can define high level code</text><rank>2</rank></check>
+		<check><text>I can define machine code</text><rank>2</rank></check>
+		<check><text>I can state what the function of a translator is </text><rank>2</rank></check>
+		<check><text>I can state what an assembler does</text><rank>3</rank></check>
+		<check><text>I can state what a compiler does</text><rank>3</rank></check>
+		<check><text>I can state what a interpreter does</text><rank>3</rank></check>
+		<check><text>I can state two tools available to developers who use an IDE</text><rank>2</rank></check>
+		<check><text>I can describe what a syntax error is and give an example</text><rank>3</rank></check>
+		<check><text>I can give an example of a logic error </text><rank>3</rank></check>
+		</checks>
+	</topic>
+	<topic><name>Skills</name>
+		<checks>
+		<check><text>I can use case statements, if statements, nested if statements, conditional and counting loops</text><rank>3</rank></check>
+		<check><text>I can use booleans,decimals, integer's, and strings in my programs</text><rank>2</rank></check>
+		<check><text>I can use variables appropriately</text><rank>2</rank></check>
+		<check><text>I can define the term variable and constant</text><rank>2</rank></check>
+		<check><text>I can describe what a syntax error is and give an example</text><rank>3</rank></check>
+		<check><text>I can describe what a logic error is and give an example</text><rank>3</rank></check>
+		<check><text>I can create a test table and identify most of the tests that are required </text><rank>3</rank></check>
+		</checks>
+	</topic>
+	</topics>
+</unit>
+</units>
+</checklist>
