@@ -1,0 +1,41 @@
+
+.ask-matrix{
+    height: auto;
+    max-height:500px;
+    overflow-x: scroll;
+    border: 1px;
+    white-space: nowrap;
+
+}
+.ask-matrix tr {line-height: 15px; width:25px; align-content: center}
+
+.ask-matrix-col-cell{
+    position: relative;
+    height: 160px;
+    width: 50px;
+    vertical-align: top;
+//    background-color: blue;
+}
+
+.ask-matrix-col-text{
+    position: absolute;
+    padding: 5px;
+    width:140px;
+//    border: 1px solid black;
+//    background-color: red;
+    font-weight: normal;
+    font-size: 0.875em;
+    text-align: left;
+    transform-origin: 6px 20px;
+    transform: rotate(90deg);
+}
+
+.ask-matrix-row {
+    float: left;
+    width: 400px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+
+
+}
