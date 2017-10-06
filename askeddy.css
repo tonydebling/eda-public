@@ -1,4 +1,8 @@
 
+/* Additional css definitions for Ask Eddy
+*/
+
+
 .ask-matrix{
     height: auto;
     max-height:500px;
@@ -36,6 +40,13 @@
     white-space: nowrap;
     overflow: hidden;
     text-overflow: ellipsis;
+}
 
 
+.ask-check {
+    float: left;
+    width: 500px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
 }
