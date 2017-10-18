@@ -3,6 +3,25 @@
 */
 
 
+/* This is how to change colour of carousel arrows
+*/
+.slick-prev:before, .slick-next:before{
+    color:orange !important;
+}
+
+
+.ask-slider-container{
+    margin-top: 10px;
+    margin-left: 10%;
+    margin-right: 10%;
+//    padding:0.01em 50px
+}
+
+.ask-slider-image{
+    width: 100%;
+    max-width: 200px;
+}
+
 .ask-matrix{
     height: auto;
     max-height:500px;
