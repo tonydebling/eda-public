@@ -9,39 +9,39 @@
 	<topics>
 	<topic><name>Computer systems</name>
 	<checks>
-		<check><text>State the main elements of a computer system </text><rank>1</rank></check>
-		<check><text>State the commonalities between different types of computer devices ( tablets, phones, games consoles and laptop/desktop)</text><rank>1</rank></check>
-		<check><text>I can state five standards that are in use in computer systems today</text><rank>1</rank></check>
+		<check><text>State the main elements of a computer system </text><rank>1</rank><search>+introduction</search></check>
+		<check><text>State the commonalities between different types of computer devices ( tablets, phones, games consoles and laptop/desktop)</text><rank>1</rank><search>+computer +device* +type*</search></check>
+		<check><text>I can state five standards that are in use in computer systems today</text><rank>1</rank><search>+computer +standard</search></check>
 		<check><text>I can give an example of what the impact would be if hardware and software was not developed using standards</text><rank>1</rank></check>
-		<check><text>I can give two examples of how computer system have raised ethical considerations</text><rank>1</rank></check>
-		<check><text>I can give examples of two laws that must be adhered to within the computing industry</text><rank>1</rank></check>
+		<check><text>I can give two examples of how computer system have raised ethical considerations</text><rank>1</rank><search>society ethic*</search></check>
+		<check><text>I can give examples of two laws that must be adhered to within the computing industry</text><rank>1</rank><search>+computer +law</search></check>
 	</checks>
 	</topic>
 	<topic><name>CPU architecture</name>
 		<checks>
-		<check><text>I can state, using bullet points, how the CPU fetches and executes instructions from RAM</text><rank>2</rank></check>
-		<check><text>I can explain the effect on the computer system of increasing and decreasing the processor speed</text><rank>2</rank></check>
-		<check><text>I can state what a multicore CPU is</text><rank>3</rank></check>
+		<check><text>I can state, using bullet points, how the CPU fetches and executes instructions from RAM</text><rank>2</rank><search>+fetch* +execute*</search></check>
+		<check><text>I can explain the effect on the computer system of increasing and decreasing the processor speed</text><rank>2</rank><search>+clock</search></check>
+		<check><text>I can state what a multicore CPU is</text><rank>3</rank><search>+multicore</search></check>
 		<check><text>I can give two examples of how increasing the number of cores in a CPU will affect performance</text><rank>3</rank></check>
 		</checks>
 	</topic>
 	<topic><name>Logic gates</name>
 		<checks>
-		<check><text>I can draw an AND gate and document the truth table for this gate</text><rank>2</rank></check>
-		<check><text>I can draw an OR gate and document the truth table for this gate</text><rank>2</rank></check>
-		<check><text>I can draw a NOT gate and document the truth table for this gate</text><rank>2</rank></check>
-		<check><text>I can give two examples of a combination circuit with AND, OR and NOT gates and work out what the output would be</text><rank>3</rank></check>
+		<check><text>I can draw an AND gate and document the truth table for this gate</text><rank>2</rank><search>+AND +gate*</search></check>
+		<check><text>I can draw an OR gate and document the truth table for this gate</text><rank>2</rank><search>+OR +gate*</search></check>
+		<check><text>I can draw a NOT gate and document the truth table for this gate</text><rank>2</rank><search>+NOT +gate*</search></check>
+		<check><text>I can give two examples of a combination circuit with AND, OR and NOT gates and work out what the output would be</text><rank>3</rank><search>+logic +circuit*</search></check>
 		</checks>
 	</topic>
 	<topic><name>Memory</name>
 		<checks>
-		<check><text>I can state what RAM stands for</text><rank>1</rank></check>
-		<check><text>I can state what ROM stands for</text><rank>1</rank></check>
-		<check><text>I can state the difference between RAM and ROM</text><rank>1</rank></check>
-		<check><text>I can explain the effect on performance  of increasing or decreasing RAM in a computer system</text><rank>1</rank></check>
-		<check><text>I can state what virtual memory is</text><rank>3</rank></check>
-		<check><text>I can state what cache memory is and when it is used</text><rank>3</rank></check>
-		<check><text>I can state what flash memory is </text><rank>2</rank></check>
+		<check><text>I can state what RAM stands for</text><rank>1</rank><search>+RAM -ROM</search></check>
+		<check><text>I can state what ROM stands for</text><rank>1</rank><search>+ROM -RAM</search></check>
+		<check><text>I can state the difference between RAM and ROM</text><rank>1</rank><search>+RAM +ROM</search></check>
+		<check><text>I can explain the effect on performance  of increasing or decreasing RAM in a computer system</text><rank>1</rank><search>+RAM +performance</search></check>
+		<check><text>I can state what virtual memory is</text><rank>3</rank><search>+virtual +memory</search></check>
+		<check><text>I can state what cache memory is and when it is used</text><rank>3</rank><search>+cache</search></check>
+		<check><text>I can state what flash memory is </text><rank>2</rank><search>+flash</search></check>
 		</checks>
 	</topic>
 	</topics>
